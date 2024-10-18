@@ -12,5 +12,7 @@
 	<classpathentry kind="src" path="calculardora"/>
 	<classpathentry kind="src" path="Atividades"/>
 	<classpathentry kind="src" path="Strings"/>
+	<classpathentry kind="src" path="exercicio"/>
+	<classpathentry kind="src" path="listas"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
